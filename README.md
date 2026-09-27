@@ -1,12 +1,13 @@
 # 💫 Hi 👋, I'm Toffan Kumar Mahalik
-**Python Developer | Data Analyst | SQL | Power BI | Excel | Tableau | Machine Learning**
+**Python Developer | Data Analyst | SQL | Power BI | Excel | Tableau | Machine Learning | Generative AI**
 
 Email Me 👉 ✉️ **mahaliktoffan1999@gamil.com** For Collaboration, Projects, or Anything Else. 😊
 
-- 🔭 **I’m currently working on:** Personal projects in Data Analytics, Power BI, SQL, Python, and Machine Learning
-- 🌱 **I’m currently learning:** Advanced SQL, Power BI, Machine Learning, and Generative AI
-- 👯 **I’m looking to collaborate on:** Python, Data Analytics, Power BI, SQL, and Machine Learning projects
-- 🤔 **I’m looking for help with:** Real-world Data Analytics, Machine Learning projects, and open-source contributions
+- 🔭 **I’m currently working on:** Personal projects in Data Analytics, Power BI, SQL, Python, Machine Learning and Generative AI
+- 🌱 **I’m currently learning:** LLMs, Prompt Engineering, AI Agents, Agentic AI, Advanced SQL, Power BI and Machine Learning
+- 👯 **I’m looking to collaborate on:** Python, Data Analytics, Power BI, SQL and Machine Learning projects
+- 🤖 **Recent AI project:** Built an LLM-powered chatbot using Python, Streamlit, OpenRouter API, Prompt Engineering and conversation memory
+- 🤔 **I’m looking for help with:** Real-world Data and AI Projects, Machine Learning projects, and open-source contributions
 - 💬 **Ask me about:** Python, SQL, Power BI, Excel, Data Analysis, and Machine Learning
 - 📫 **How to reach me:** mahaliktoffan1999@gmail.com
 - 😄 **Pronouns:** Toffan
